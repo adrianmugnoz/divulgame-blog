@@ -9,13 +9,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: adrianmugnoz@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "divulgame-blog/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/delfines.jpg"
+cover: "divulgame-blog/assets/images/delfines.jpg"
 
 name: 'Adrián Muñoz'
 author: 'Adrián Muñoz'
-author_image: "/assets/images/author.jpg"
+author_image: "divulgame-blog/assets/images/author.jpg"
 
 paginate:	5
 
